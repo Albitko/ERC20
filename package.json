@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "truffle": "^5.4.26"
+  },
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "mocha": "^8.1.2",
+    "openzeppelin-solidity": "^4.4.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
